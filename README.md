@@ -1,7 +1,6 @@
 # pensamento-computacional-2024
 *SCM*: Colabora**ção**
 
-- **1**
  ## 1) Cafe da manha ##
   * Torrada
   * Cafe_com_leite
