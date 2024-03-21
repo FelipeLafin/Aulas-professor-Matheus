@@ -3,16 +3,16 @@
 
  ## 1) Cafe da manha ##
   * Torrada
-  * Cafe_com_leite
+  * Cafe com leite
 
  ## 2) Faculdade ##
   * Caderno
   * Estojo
-  * Garrafa_de_agua
+  * Garrafa de agua
    - lavar antes
 
  ## 3) Sair de casa ##
-* *esperar_a_mae*
+* *esperar a mae*
 * sair
 
- ## Fim) Passar no curso ##
+ ## 4) Passar no curso ##
