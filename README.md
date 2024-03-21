@@ -9,7 +9,7 @@
   * Caderno
   * Estojo
   * Garrafa de agua
-   - lavar antes
+    - lavar antes
 
  ## 3) Sair de casa ##
 * *esperar a mae*
