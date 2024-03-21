@@ -2,18 +2,18 @@
 *SCM*: Colabora**ção**
 
 - **1**
- ## Cafe da manha ##
+ ## 1) Cafe da manha ##
   * Torrada
   * Cafe_com_leite
-- **2**
- ## Faculdade ##
+
+ ## 2) Faculdade ##
   * Caderno
   * Estojo
   * Garrafa_de_agua
    - lavar antes
-- **3**
- ## Sair de casa ##
+
+ ## 3) Sair de casa ##
 * *esperar_a_mae*
 * sair
-- **fim_da_rotana**
- ## Passar no curso##
+
+ ## Fim) Passar no curso##
