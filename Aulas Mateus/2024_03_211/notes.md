@@ -20,4 +20,7 @@
 
 ## (A prova de que o codigo funciona) ##
 
-![alt text](image-1.png)
+![alt text][def]
+
+
+[def]: image-1.png
