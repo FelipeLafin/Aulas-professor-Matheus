@@ -20,4 +20,4 @@
 
 ## (A prova de que o codigo funciona) ##
 
-![alt text](Aulas_Mateus/2024_03_21/image-1.png)
+![alt text](image-1.png)
