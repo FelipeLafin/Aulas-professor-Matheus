@@ -20,4 +20,4 @@
 
 ## (A prova de que o codigo funciona) ##
 
-![alt text](file:///Users/fecraft41/Downloads/image-1.png)
+![alt text](image-1.png)
