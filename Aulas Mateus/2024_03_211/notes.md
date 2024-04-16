@@ -20,7 +20,4 @@
 
 ## (A prova de que o codigo funciona) ##
 
-![alt text][def]
-
-
-[def]: image-1.png
+![alt text](https://www.google.com/search?q=FelipeLafin%2FAulas-professor-Matheus%2FAulas+Mateus%2F2024_03_211%2Fimage-1.png&oq=FelipeLafin%2FAulas-professor-Matheus%2FAulas+Mateus%2F2024_03_211%2Fimage-1.png&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIMTA4OWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
