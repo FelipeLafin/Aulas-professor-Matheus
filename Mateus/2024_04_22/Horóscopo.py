@@ -6,6 +6,8 @@ elif mes == 'fevereiro':
         print('Signo = Fortran')
 elif mes == 'março':
         print('Signo = Rust')
+elif mes == 'marco':
+        print('Signo = Rust')
 elif mes == 'abril':
         print('Signo = Go')
 elif mes == 'maio':
