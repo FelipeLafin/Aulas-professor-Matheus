@@ -1,0 +1,10 @@
+Parabéns, você conseguiu descobrir a senha!! Orgulhe-se!
+
+Verifique TUDO o que deve ser entregue na descrição do entregável e publique no AVA.
+
+Atenção: não publique a sua solução na internet (e.g. GitHub) até que o professor autorize.
+
+---
+
+Seu trabalho está encerrado, essa parte é OPCIONAL. Caso queria se aventurar, teste seu programa contra o outro arquivo .zip que encontrou aqui (possui senha de 5 caracteres).
+
